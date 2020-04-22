@@ -1,4 +1,5 @@
 target/
 fluxtest.iml
 velocity.log
+.idea/
 
